@@ -11,6 +11,6 @@ body{
 .links{
     background-color: cadetblue;
     text-align: center;
-    border-style: dashed;
+    border-radius: 30px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
