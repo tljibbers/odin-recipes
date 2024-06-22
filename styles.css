@@ -24,12 +24,13 @@ body{
     display: block;
 }
 
-.Ingredients {
+.Ingredients,
+.Directions{
     border-style: solid;
     border-radius: 25px;
     font-size: x-large;
 }
 
-.Ingredients #IngredientsCenter {
+.Ingredients #IngredientsCenter, .Directions #DirectionsCenter{
     text-align: center;
 }
