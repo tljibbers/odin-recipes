@@ -1,0 +1,16 @@
+body{
+    background-color: blanchedalmond;
+}
+#OR {
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.links{
+    background-color: cadetblue;
+    text-align: center;
+    border-style: dashed;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
